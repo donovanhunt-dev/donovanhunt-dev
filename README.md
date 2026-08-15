@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Donovan Hunt — independent build partner" width="100%" />
+  <img src="./assets/banner.png" alt="Donovan Hunt — independent build partner" width="100%" />
 </div>
 
 <br/>
@@ -13,7 +13,7 @@ I am Donovan Hunt. Independent. Full-stack. I build for people who need the thin
 <br/>
 
 <div align="center">
-  <img src="./assets/services.svg" alt="Web products, mobile apps, AI and automation" width="100%" />
+  <img src="./assets/services.png" alt="Web products, mobile apps, AI and automation" width="100%" />
 </div>
 
 <br/>
@@ -46,7 +46,7 @@ I am Donovan Hunt. Independent. Full-stack. I build for people who need the thin
 <br/>
 
 <div align="center">
-  <img src="./assets/process.svg" alt="Scout, Blueprint, Forge, Hand off" width="100%" />
+  <img src="./assets/process.png" alt="Scout, Blueprint, Forge, Hand off" width="100%" />
 </div>
 
 **Scout** — we name the user, the win, and the date.  
@@ -90,7 +90,7 @@ I don’t worship a stack. I pick what will still be kind to you in a year.
 ---
 
 <div align="center">
-  <img src="./assets/close.svg" alt="If the problem is real, I want to hear it" width="100%" />
+  <img src="./assets/close.png" alt="If the problem is real, I want to hear it" width="100%" />
 </div>
 
 <br/>
