@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" fill="none" role="img" aria-label="What I build">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10141A"/>
+      <stop offset="1" stop-color="#0A0D11"/>
+    </linearGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#F3D79A"/>
+      <stop offset="1" stop-color="#D4A84B"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="280" fill="#07090D"/>
+
+  <g transform="translate(20,20)">
+    <rect width="372" height="240" fill="url(#panel)" stroke="#E8C97A" stroke-opacity="0.22"/>
+    <rect x="24" y="28" width="36" height="28" rx="3" stroke="#E8C97A" stroke-width="1.4"/>
+    <path d="M30 36H54M30 42H48" stroke="#E8C97A" stroke-width="1.2"/>
+    <text x="24" y="86" fill="#8A8374" font-family="ui-monospace, Consolas, monospace" font-size="11" letter-spacing="3">01  THE STOREFRONT</text>
+    <text x="24" y="122" fill="#F6F1E6" font-family="Georgia, 'Times New Roman', serif" font-size="26">Web products</text>
+    <text x="24" y="162" fill="#C9BFA8" font-family="Georgia, 'Times New Roman', serif" font-size="15">Portals, dashboards, and sites</text>
+    <text x="24" y="184" fill="#C9BFA8" font-family="Georgia, 'Times New Roman', serif" font-size="15">that look expensive and load fast.</text>
+  </g>
+
+  <g transform="translate(414,20)">
+    <rect width="372" height="240" fill="url(#panel)" stroke="#E8C97A" stroke-opacity="0.22"/>
+    <rect x="32" y="26" width="20" height="34" rx="3" stroke="#E8C97A" stroke-width="1.4"/>
+    <circle cx="42" cy="54" r="1.4" fill="#E8C97A"/>
+    <text x="24" y="86" fill="#8A8374" font-family="ui-monospace, Consolas, monospace" font-size="11" letter-spacing="3">02  THE POCKET</text>
+    <text x="24" y="122" fill="#F6F1E6" font-family="Georgia, 'Times New Roman', serif" font-size="26">Mobile apps</text>
+    <text x="24" y="162" fill="#C9BFA8" font-family="Georgia, 'Times New Roman', serif" font-size="15">Android and cross-platform apps</text>
+    <text x="24" y="184" fill="#C9BFA8" font-family="Georgia, 'Times New Roman', serif" font-size="15">your people will actually open.</text>
+  </g>
+
+  <g transform="translate(808,20)">
+    <rect width="372" height="240" fill="url(#panel)" stroke="#E8C97A" stroke-opacity="0.22"/>
+    <circle cx="42" cy="42" r="10" stroke="#E8C97A" stroke-width="1.4"/>
+    <circle cx="42" cy="42" r="3" fill="#E8C97A"/>
+    <path d="M42 32 V26 M42 58 V52 M32 42 H26 M58 42 H52" stroke="#E8C97A" stroke-width="1.2"/>
+    <text x="24" y="86" fill="#8A8374" font-family="ui-monospace, Consolas, monospace" font-size="11" letter-spacing="3">03  THE QUIET MACHINE</text>
+    <text x="24" y="122" fill="#F6F1E6" font-family="Georgia, 'Times New Roman', serif" font-size="26">AI &amp; automation</text>
+    <text x="24" y="162" fill="#C9BFA8" font-family="Georgia, 'Times New Roman', serif" font-size="15">Inbox, ops, and workflows that</text>
+    <text x="24" y="184" fill="#C9BFA8" font-family="Georgia, 'Times New Roman', serif" font-size="15">run while you stay with clients.</text>
+  </g>
+</svg>

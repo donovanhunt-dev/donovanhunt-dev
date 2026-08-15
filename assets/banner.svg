@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" fill="none" role="img" aria-label="Donovan Hunt">
+  <defs>
+    <linearGradient id="night" x1="0" y1="0" x2="1200" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07090D"/>
+      <stop offset="0.55" stop-color="#10151C"/>
+      <stop offset="1" stop-color="#0B1210"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="80" y1="40" x2="1120" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F3D79A"/>
+      <stop offset="0.5" stop-color="#D4A84B"/>
+      <stop offset="1" stop-color="#8C6A24"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="980" cy="70" r="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D4A84B" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#D4A84B" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#E8C97A" stroke-opacity="0.05"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="380" fill="url(#night)"/>
+  <rect width="1200" height="380" fill="url(#grid)"/>
+  <rect width="1200" height="380" fill="url(#glow)"/>
+
+  <rect x="18" y="18" width="1164" height="344" stroke="url(#gold)" stroke-opacity="0.45"/>
+  <rect x="26" y="26" width="1148" height="328" stroke="#E8C97A" stroke-opacity="0.12"/>
+
+  <path d="M70 86 L88 54 L106 86 Z" stroke="url(#gold)" stroke-width="1.5" fill="none"/>
+  <path d="M88 62 V78" stroke="url(#gold)" stroke-width="1.5"/>
+  <text x="122" y="78" fill="#E8C97A" font-family="Georgia, 'Times New Roman', serif" font-size="13" letter-spacing="6">INDEPENDENT BUILD PARTNER</text>
+
+  <text x="70" y="168" fill="#F6F1E6" font-family="Georgia, 'Times New Roman', serif" font-size="64" letter-spacing="4">DONOVAN HUNT</text>
+  <rect x="72" y="186" width="132" height="2" fill="url(#gold)"/>
+
+  <text x="70" y="236" fill="#C9BFA8" font-family="Georgia, 'Times New Roman', serif" font-size="22">
+    I dont collect skills. I ship the thing your customer can touch.
+  </text>
+
+  <g font-family="ui-monospace, Consolas, monospace" font-size="13" letter-spacing="3" fill="#E8C97A">
+    <text x="70" y="308">WEB</text>
+    <text x="150" y="308" fill="#5C574C">/</text>
+    <text x="176" y="308">MOBILE</text>
+    <text x="276" y="308" fill="#5C574C">/</text>
+    <text x="302" y="308">AI AUTOMATION</text>
+  </g>
+
+  <text x="980" y="308" fill="#8A8374" font-family="ui-monospace, Consolas, monospace" font-size="12" letter-spacing="2" text-anchor="end">AVAILABLE FOR CLIENT WORK</text>
+</svg>
